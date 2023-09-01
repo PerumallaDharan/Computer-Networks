@@ -1,5 +1,4 @@
 // Roll NO - AP21110010201
-// CRC Detection Implementation using bool
 // Perumalla Dharan
 
 #include <iostream>
