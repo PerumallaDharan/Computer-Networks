@@ -1,4 +1,8 @@
 // Write a program to implement hamming codes for error detection and correction.
+// Perumalla Dharan
+// AP21110010201
+
+
 #include <iostream>
 using namespace std;
 int calculateRedundancyBits(int dataBits) {
