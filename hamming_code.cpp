@@ -1,6 +1,6 @@
-// Write a program to implement hamming codes for error detection and correction.
-// Perumalla Dharan
 // AP21110010201
+// Perumalla Dharan
+// Write a program to implement hamming codes for error detection and correction.
 
 
 #include <iostream>
